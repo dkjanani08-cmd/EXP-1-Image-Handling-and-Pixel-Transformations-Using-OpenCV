@@ -2,7 +2,7 @@
 
 # **Name:** Janani D 
 # **Register Number:** 212225040142
-# **Experiment:** Image Handling and Pixel Transformations Using OpenCV
+
 
 ---
 
