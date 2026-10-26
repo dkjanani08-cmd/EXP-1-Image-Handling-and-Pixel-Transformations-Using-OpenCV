@@ -325,15 +325,12 @@ plt.axis("off")
 
 #1. Original image displayed using OpenCV and Matplotlib.
 
-
 <img width="277" height="510" alt="Screenshot 2026-10-26 132035" src="https://github.com/user-attachments/assets/8728f2d1-5bcf-4dbe-8bce-7571f2b13248" />
 
 
-
-
 #2. Image with a line drawn from the top-left to the bottom-right.
-<img width="302" height="528" alt="Screenshot 2026-10-26 132425" src="https://github.com/user-attachments/assets/6212fdf0-6e6c-4106-8b5b-606ad9a9a43b" />
 
+<img width="302" height="528" alt="Screenshot 2026-10-26 132425" src="https://github.com/user-attachments/assets/6212fdf0-6e6c-4106-8b5b-606ad9a9a43b" />
 
 
 #3. Image with a circle at the center.
@@ -346,13 +343,12 @@ plt.axis("off")
 <img width="345" height="525" alt="Screenshot 2026-10-26 132517" src="https://github.com/user-attachments/assets/80665812-6761-461b-946a-fa8aeaafdbb8" />
 
 
-
 #5. Image with the text "OpenCV Drawing".
 
 <img width="277" height="505" alt="Screenshot 2026-10-26 132538" src="https://github.com/user-attachments/assets/f50cda73-8fc5-422c-be8d-23996888d5d2" />
 
-#6. HSV, grayscale, and YCrCb color space conversions.
 
+#6. HSV, grayscale, and YCrCb color space conversions.
 
 <img width="282" height="502" alt="Screenshot 2026-10-26 132747" src="https://github.com/user-attachments/assets/e89f5b2b-118e-4aa6-911a-49f6a19ab5a0" />
 
@@ -360,15 +356,15 @@ plt.axis("off")
 
 <img width="275" height="507" alt="Screenshot 2026-10-26 132614" src="https://github.com/user-attachments/assets/79a137eb-6fc4-4aa7-bc42-c44f23793d7b" />
 
+
 #7. Image converted from HSV back to RGB.
 
 <img width="282" height="502" alt="Screenshot 2026-10-26 132827" src="https://github.com/user-attachments/assets/271afc06-01d8-4d4e-ae8a-963507504adb" />
 
 
-
 #8. Pixel value displayed and a white region added to the image.
-<img width="372" height="507" alt="Screenshot 2026-10-26 132907" src="https://github.com/user-attachments/assets/3fad62e9-f004-489c-9c80-eb2bcf801772" />
 
+<img width="372" height="507" alt="Screenshot 2026-10-26 132907" src="https://github.com/user-attachments/assets/3fad62e9-f004-489c-9c80-eb2bcf801772" />
 
 
 #9. Image resized to half its original dimensions.
@@ -377,8 +373,8 @@ plt.axis("off")
 
 
 #10. Cropped region of interest displayed.
-<img width="488" height="502" alt="Screenshot 2026-10-26 133012" src="https://github.com/user-attachments/assets/58d01761-8008-4206-8845-9a25db661cbb" />
 
+<img width="488" height="502" alt="Screenshot 2026-10-26 133012" src="https://github.com/user-attachments/assets/58d01761-8008-4206-8845-9a25db661cbb" />
 
 
 #11. Horizontally flipped image displayed.
@@ -387,10 +383,15 @@ plt.axis("off")
 
 
 #12. Vertically flipped image displayed.
+
 <img width="286" height="502" alt="Screenshot 2026-10-26 133053" src="https://github.com/user-attachments/assets/d17bdf63-79df-461f-a62b-5edf6dc91929" />
 
 
 ## RESULT
+
+
+Thus, image handling and pixel transformations were performed using Python, OpenCV, and Matplotlib. The experiment demonstrated image reading, shape drawing, text insertion, color space conversion, pixel manipulation, image resizing, cropping, flipping, and saving.
+
 
 Thus, image handling and pixel transformations were performed using Python, OpenCV, and Matplotlib. The experiment demonstrated image reading, shape drawing, text insertion, color space conversion, pixel manipulation, image resizing, cropping, flipping, and saving.
 
